@@ -1,0 +1,51 @@
+<li id=\"work_51549682\" class=\"work blurb group work-51549682 user-19231315\" role=\"article\">
+	<div class=\"header module\">
+		<h4 class=\"heading\">
+			<a href=\"/works/51549682\">Ex-Pats and Exiles</a>
+			by
+			<a rel=\"author\" href=\"/users/Dip_my_toe86/pseuds/Dip_my_toe86\">Dip_my_toe86</a>
+		</h4>
+		<h5 class=\"fandoms heading\">
+			<span class=\"landmark\">Fandoms:</span>
+			<a class=\"tag\" href=\"/tags/Harry%20Potter%20-%20J*d*%20K*d*%20Rowling/works\">Harry Potter - J. K. Rowling</a>
+			&nbsp;
+		</h5>
+		<ul class=\"required-tags\">
+			<li> <a class=\"help symbol question modal\" title=\"Symbols key\" href=\"/help/symbols-key.html\"><span class=\"rating-mature rating\" title=\"Mature\"><span class=\"text\">Mature</span></span></a></li>
+			<li> <a class=\"help symbol question modal\" title=\"Symbols key\" href=\"/help/symbols-key.html\"><span class=\"warning-no warnings\" title=\"No Archive Warnings Apply\"><span class=\"text\">No Archive Warnings Apply</span></span></a></li>
+			<li> <a class=\"help symbol question modal\" title=\"Symbols key\" href=\"/help/symbols-key.html\"><span class=\"category-het category\" title=\"F/M\"><span class=\"text\">F/M</span></span></a></li>
+			<li> <a class=\"help symbol question modal\" title=\"Symbols key\" href=\"/help/symbols-key.html\"><span class=\"complete-no iswip\" title=\"Work in Progress\"><span class=\"text\">Work in Progress</span></span></a></li>
+		</ul>
+		<p class=\"datetime\">12 Mar 2024</p>
+	</div>
+	<h6 class=\"landmark heading\">Tags</h6>
+	<ul class=\"tags commas\">
+		<li class=\"warnings\"><strong><a class=\"tag\" href=\"/tags/No%20Archive%20Warnings%20Apply/works\">No Archive Warnings Apply</a></strong></li><li class=\"relationships\"><a class=\"tag\" href=\"/tags/Percy%20Weasley%20*a*%20Original%20Character(s)/works\">Percy Weasley &amp; Original Character(s)</a></li> <li class=\"relationships\"><a class=\"tag\" href=\"/tags/Audrey%20Weasley*s*Percy%20Weasley/works\">Audrey Weasley/Percy Weasley</a></li><li class=\"characters\"><a class=\"tag\" href=\"/tags/Percy%20Weasley/works\">Percy Weasley</a></li> <li class=\"characters\"><a class=\"tag\" href=\"/tags/Harry%20Potter/works\">Harry Potter</a></li> <li class=\"characters\"><a class=\"tag\" href=\"/tags/Cornelius%20Fudge/works\">Cornelius Fudge</a></li> <li class=\"characters\"><a class=\"tag\" href=\"/tags/Dolores%20Umbridge/works\">Dolores Umbridge</a></li> <li class=\"characters\"><a class=\"tag\" href=\"/tags/Rufus%20Scrimgeour/works\">Rufus Scrimgeour</a></li> <li class=\"characters\"><a class=\"tag\" href=\"/tags/Pius%20Thicknesse/works\">Pius Thicknesse</a></li> <li class=\"characters\"><a class=\"tag\" href=\"/tags/Arthur%20Weasley/works\">Arthur Weasley</a></li> <li class=\"characters\"><a class=\"tag\" href=\"/tags/Molly%20Weasley/works\">Molly Weasley</a></li> <li class=\"characters\"><a class=\"tag\" href=\"/tags/Albus%20Dumbledore/works\">Albus Dumbledore</a></li> <li class=\"characters\"><a class=\"tag\" href=\"/tags/Original%20Muggle%20Character(s)/works\">Original Muggle Character(s)</a></li> <li class=\"characters\"><a class=\"tag\" href=\"/tags/Original%20Malfoy%20Characters%20(Harry%20Potter)/works\">Original Malfoy Characters (Harry Potter)</a></li> <li class=\"characters\"><a class=\"tag\" href=\"/tags/Original%20Muggle-born%20Characters%20(Harry%20Potter)/works\">Original Muggle-born Characters (Harry Potter)</a></li> <li class=\"characters\"><a class=\"tag\" href=\"/tags/Charity%20Burbage/works\">Charity Burbage</a></li> <li class=\"characters\"><a class=\"tag\" href=\"/tags/Arabella%20Figg/works\">Arabella Figg</a></li> <li class=\"characters\"><a class=\"tag\" href=\"/tags/Original%20Squib%20Characters%20(Harry%20Potter)/works\">Original Squib Characters (Harry Potter)</a></li> <li class=\"characters\"><a class=\"tag\" href=\"/tags/Molly%20Weasley&#39;s%20Squib%20Second%20Cousin/works\">Molly Weasley&#39;s Squib Second Cousin</a></li> <li class=\"characters\"><a class=\"tag\" href=\"/tags/Penelope%20Clearwater/works\">Penelope Clearwater</a></li> <li class=\"characters\"><a class=\"tag\" href=\"/tags/Marcus%20Flint/works\">Marcus Flint</a></li> <li class=\"characters\"><a class=\"tag\" href=\"/tags/Eric%20Munch/works\">Eric Munch</a></li> <li class=\"characters\"><a class=\"tag\" href=\"/tags/Lucius%20Malfoy/works\">Lucius Malfoy</a></li> <li class=\"characters\"><a class=\"tag\" href=\"/tags/Bill%20Weasley/works\">Bill Weasley</a></li><li class=\"freeforms\"><a class=\"tag\" href=\"/tags/Percy%20Weasley-centric/works\">Percy Weasley-centric</a></li> <li class=\"freeforms\"><a class=\"tag\" href=\"/tags/Muggle*s*Wizard%20Relations/works\">Muggle/Wizard Relations</a></li> <li class=\"freeforms\"><a class=\"tag\" href=\"/tags/Romance/works\">Romance</a></li> <li class=\"freeforms\"><a class=\"tag\" href=\"/tags/Steppe%20Culture%20(Pathologic)/works\">Steppe Culture (Pathologic)</a></li>
+	</ul>
+	<h6 class=\"landmark heading\">Summary</h6>
+	<blockquote class=\"userstuff summary\">
+		<p>This series explores the young adult life of Percy Weasley and his relationship to his family, job at the Ministry and feeling about the magic and muggle worlds.</p>
+	</blockquote>
+	<h6 class=\"landmark heading\">Series</h6>
+	<ul class=\"series\">
+		<li>
+			Part <strong>1</strong> of <a href=\"/series/3833623\">Percy Weasley Series</a>
+		</li>
+	</ul>
+	<dl class=\"stats\">
+		<dt class=\"language\">Language:</dt>
+		<dd class=\"language\" lang=\"en\">English</dd>
+		<dt class=\"words\">Words:</dt>
+		<dd class=\"words\">93,849</dd>
+		<dt class=\"chapters\">Chapters:</dt>
+		<dd class=\"chapters\"><a href=\"/works/51549682/chapters/137872867\">18</a>/?</dd>
+		<dt class=\"comments\">Comments:</dt>
+		<dd class=\"comments\"><a href=\"/works/51549682?show_comments=true&amp;view_full_work=true#comments\">29</a></dd>
+		<dt class=\"kudos\">Kudos:</dt>
+		<dd class=\"kudos\"><a href=\"/works/51549682?view_full_work=true#kudos\">40</a></dd>
+		<dt class=\"bookmarks\">Bookmarks:</dt>
+		<dd class=\"bookmarks\"><a href=\"/works/51549682/bookmarks\">3</a></dd>
+		<dt class=\"hits\">Hits:</dt>
+		<dd class=\"hits\">1,402</dd>
+	</dl>
+</li>
